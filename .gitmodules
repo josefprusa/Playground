@@ -1,3 +1,6 @@
 [submodule "ThingDoc"]
 	path = ThingDoc
 	url = git@github.com:prusajr/ThingDoc.git
+[submodule "thingdoc"]
+	path = thingdoc
+	url = git@github.com:prusajr/ThingDoc.git
